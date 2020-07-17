@@ -1,21 +1,20 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Festa sob medida e com preço justo
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Festa sob medida e com preço justo
+subheading: Apoiamos a causa "Faça você mesmo" para você desfrutar do que há de melhor
 mainpitch:
-  title: Why Kaldi
+  title: Por que Melg  Festas?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    A Melg Festas é uma empresa para todos que acreditam que uma ótima festa não
+    deve ser apenas linda, mas também deve ter um custo acessível e ter o seu
+    estilo único. Nós trabalhamos com produtos de qualidade e prezamos pelo bom
+    atendimento e pelo respeito das necessidades de cada cliente.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
